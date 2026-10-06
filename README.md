@@ -28,7 +28,7 @@ Feel free to explore my repositories, blog posts, or open‑source contributions
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/marvin-delavega>
-    <img src="https://github-readme-stats.vercel.app/api?username=<Your-Username>&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=marvin-delavega&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/marvin-delavega">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin-delavega&layout=compact&theme=radical" alt="Top Langs"/>
